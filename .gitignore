@@ -1,0 +1,56 @@
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+.env
+.env.local
+
+# Bytecode e caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribuição / empacotamento
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs e editores
+.idea/
+*.swp
+*.swo
+*~
+
+# Artefatos de ML (modelos e checkpoints locais)
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.ckpt
+*.pb
+*.onnx
+saved_model/
+checkpoints/
+logs/
+wandb/
+.mlflow/
+
+# Datasets grandes baixados em runtime (descomente se não quiser versionar)
+# data/raw/
+# *.zip
