@@ -1,0 +1,13 @@
+# Questão 1 — pré-processamento / EDA
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13
+scikit-learn>=1.3
+
+# Prática VGG — deep learning
+tensorflow>=2.15
+
+# Ambiente para rodar os .ipynb
+jupyter>=1.0
+ipykernel>=6.0
