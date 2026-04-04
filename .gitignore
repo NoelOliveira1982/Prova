@@ -54,3 +54,4 @@ wandb/
 # Datasets grandes baixados em runtime (descomente se não quiser versionar)
 # data/raw/
 # *.zip
+data/
